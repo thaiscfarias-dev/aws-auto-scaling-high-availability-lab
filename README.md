@@ -1,0 +1,1 @@
+# aws-auto-scaling-high-availability-lab
